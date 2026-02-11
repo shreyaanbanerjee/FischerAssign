@@ -1,0 +1,213 @@
+Tracking Number,Carrier Name,Zones,Dataset_Type,Total_Cost,Base_Cost,Surcharge_Cost,Penalty_Cost,Num_Charges,Has_Base_Rate
+0F10987POIUY,Safe Express,2,Historical,25.0,0.0,0.0,25.0,1.0,False
+0F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F10987ZXCVB,Delhivery,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F10987ZXCVB,Ecom Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+0F32109MNBVC,Delhivery,4,Historical,30.0,0.0,30.0,0.0,1.0,False
+0F32109POIUY,Ekart Logistics,3,Historical,25.0,0.0,0.0,25.0,1.0,False
+0F32109ZXCVB,DTDC,1,Historical,30.0,0.0,30.0,0.0,1.0,False
+0F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F43210MNBVC,Gati,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+0F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F54321LKJHG,Blue Dart,5,Historical,25.5,0.0,0.0,25.5,1.0,False
+0F54321WXYZA,Gati,3,Historical,25.5,0.0,0.0,25.5,1.0,False
+0F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+0F76543LKJHG,FedEx,5,Historical,30.0,0.0,0.0,30.0,1.0,False
+0F98765MNBVC,DHL,3,Historical,25.0,0.0,0.0,25.0,1.0,False
+1F09876ZXCVB,DTDC,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+1F10987LKJHG,Ecom Express,2,Historical,25.0,0.0,0.0,25.0,1.0,False
+1F10987POIUY,Ekart Logistics,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+1F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+1F10987ZXCVB,Blue Dart,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+1F10987ZXCVB,Delhivery,4,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+1F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+1F1234567890123450,Delhivery,Zone 3,Historical,10.0,0.0,10.0,0.0,1.0,False
+1F1234567890123451,DTDC,Zone 4,Historical,5.5,0.0,5.5,0.0,1.0,False
+1F1234567890123452,Ekart Logistics,Zone 5,Historical,7.25,0.0,0.0,7.25,1.0,False
+1F1234567890123453,Ecom Express,Zone 6,Historical,8.75,0.0,8.75,0.0,1.0,False
+1F1234567890123454,FedEx,Zone 1,Historical,9.0,0.0,9.0,0.0,1.0,False
+1F1234567890123455,Gati,Zone 2,Historical,6.25,0.0,0.0,6.25,1.0,False
+1F1234567890123456,Blue Dart,Zone 3,Historical,7.5,0.0,0.0,7.5,1.0,False
+1F1234567890123457,DHL,Zone 4,Historical,12.75,0.0,12.75,0.0,1.0,False
+1F1234567890123458,Delhivery,Zone 6,Historical,11.25,0.0,11.25,0.0,1.0,False
+1F1234567890123459,Delhivery,Zone 6,Historical,11.25,0.0,11.25,0.0,1.0,False
+1F1234567890126001,DTDC,Zone 4,Historical,8.25,0.0,8.25,0.0,1.0,False
+1F1234567890126002,Ekart Logistics,Zone 5,Historical,11.5,0.0,11.5,0.0,1.0,False
+1F1234567890126003,FedEx,Zone 6,Historical,7.75,0.0,0.0,7.75,1.0,False
+1F1234567890126004,Gati,Zone 1,Historical,9.0,0.0,0.0,9.0,1.0,False
+1F1234567890126005,Blue Dart,Zone 2,Historical,10.75,0.0,10.75,0.0,1.0,False
+1F1234567890126006,DHL,Zone 3,Historical,12.0,0.0,12.0,0.0,1.0,False
+1F1234567890126007,Ecom Express,Zone 4,Historical,6.5,0.0,6.5,0.0,1.0,False
+1F1234567890126008,Delhivery,Zone 5,Historical,8.25,0.0,0.0,8.25,1.0,False
+1F1234567890126009,DTDC,Zone 6,Historical,9.5,0.0,9.5,0.0,1.0,False
+1F1234567890126010,Ekart Logistics,Zone 1,Historical,10.0,0.0,10.0,0.0,1.0,False
+1F12345ABCDE,Delhivery,3,Historical,25.0,25.0,0.0,0.0,1.0,True
+1F21098NBVCX,DHL,3,Historical,25.0,0.0,0.0,25.0,1.0,False
+1F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+1F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+1F43210MNBVC,Gati,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+1F43210MNBVC,Safe Express,2,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+1F65432ZXCVB,Safe Express,2,Historical,30.0,0.0,0.0,30.0,1.0,False
+1F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+1F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+1F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+1F76543LKJHG,FedEx,5,Historical,25.0,0.0,25.0,0.0,1.0,False
+1F87654BCDAZ,Blue Dart,2,Historical,35.0,0.0,0.0,35.0,1.0,False
+1F98765LKJHG,Delhivery,4,Historical,25.0,0.0,0.0,25.0,1.0,False
+2F09876MNBVC,Safe Express,2,Historical,25.0,0.0,0.0,25.0,1.0,False
+2F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F10987ZXCVB,Blue Dart,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+2F10987ZXCVB,Delhivery,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F32109POIUY,Delhivery,4,Historical,25.0,0.0,0.0,25.0,1.0,False
+2F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F43210MNBVC,Gati,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+2F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F76543LKJHG,DHL,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+2F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F76543LKJHG,Ecom Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+2F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+2F76543MNBVC,DTDC,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+2F76543MNBVC,FedEx,5,Historical,25.0,0.0,25.0,0.0,1.0,False
+2F76543POIUY,DHL,1,Historical,26.75,0.0,26.75,0.0,1.0,False
+2F76543POIUY,Ekart Logistics,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+3F10987LKJHG,DTDC,1,Historical,30.0,0.0,0.0,30.0,1.0,False
+3F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+3F10987ZXCVB,Blue Dart,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+3F10987ZXCVB,Delhivery,4,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+3F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+3F43210LKJHG,Ecom Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+3F43210LKJHG,Safe Express,4,Historical,29.25,0.0,29.25,0.0,1.0,False
+3F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+3F43210MNBVC,FedEx,5,Historical,25.0,0.0,25.0,0.0,1.0,False
+3F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+3F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+3F43210MNBVC,Safe Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+3F43210ZXCVB,Ekart Logistics,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+3F43210ZXCVB,Gati,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+3F6789BCDEFG,DTDC,2,Historical,30.0,0.0,30.0,0.0,1.0,False
+3F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+3F76543LKJHG,DHL,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+3F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+3F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+3F98765ZXCVB,Delhivery,4,Historical,25.0,0.0,0.0,25.0,1.0,False
+4F10987MNBVC,FedEx,5,Historical,30.0,0.0,30.0,0.0,1.0,False
+4F10987NBVCX,Delhivery,3,Historical,35.0,0.0,35.0,0.0,1.0,False
+4F10987POIUY,Blue Dart,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+4F10987POIUY,Ecom Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+4F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+4F10987ZXCVB,Delhivery,4,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+4F10987ZXCVB,Delhivery,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+4F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+4F10987ZXCVB,Gati,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+4F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+4F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+4F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+4F43210MNBVC,Safe Express,2,Historical,30.0,0.0,30.0,0.0,1.0,False
+4F65432POIUY,DTDC,1,Historical,25.0,0.0,0.0,25.0,1.0,False
+4F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+4F76543LKJHG,DHL,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+4F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,0.0,25.0,1.0,False
+4F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+4F87654MNBVC,Ekart Logistics,3,Historical,25.0,0.0,0.0,25.0,1.0,False
+5F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+5F10987ZXCVB,Delhivery,4,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+5F10987ZXCVB,Delhivery,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+5F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+5F32109LKJHG,Ekart Logistics,3,Historical,25.0,0.0,0.0,25.0,1.0,False
+5F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+5F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+5F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+5F43210MNBVC,Safe Express,2,Historical,25.0,0.0,0.0,25.0,1.0,False
+5F54321ZXCVB,Ecom Express,2,Historical,25.0,0.0,0.0,25.0,1.0,False
+5F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+5F76543LKJHG,DHL,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+5F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+5F76543LKJHG,DTDC,1,Historical,30.0,0.0,30.0,0.0,1.0,False
+5F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+5F87654LKJHG,Blue Dart,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+5F87654LKJHG,FedEx,5,Historical,30.0,0.0,30.0,0.0,1.0,False
+5F87654ZXCVB,Gati,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+5F98765HIJKL,Ekart Logistics,4,Historical,28.5,0.0,28.5,0.0,1.0,False
+5F98765MNBVC,DTDC,5,Historical,27.5,0.0,27.5,0.0,1.0,False
+6F09876MNBVC,Ecom Express,2,Historical,30.0,0.0,0.0,30.0,1.0,False
+6F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+6F10987ZXCVB,Delhivery,4,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+6F10987ZXCVB,Delhivery,4,Historical,30.0,0.0,30.0,0.0,1.0,False
+6F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+6F21098POIUY,FedEx,5,Historical,25.0,0.0,0.0,25.0,1.0,False
+6F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+6F43210MNBVC,Ekart Logistics,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+6F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+6F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+6F43210MNBVC,Safe Express,2,Historical,30.0,0.0,30.0,0.0,1.0,False
+6F54321MNBVC,Gati,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+6F54321POIUY,Blue Dart,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+6F54321POIUY,DHL,3,Historical,25.0,0.0,0.0,25.0,1.0,False
+6F76543JHGFD,Ekart Logistics,2,Historical,26.0,0.0,26.0,0.0,1.0,False
+6F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+6F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+6F76543LKJHG,DTDC,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+6F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,0.0,25.0,1.0,False
+7F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+7F10987ZXCVB,Delhivery,4,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+7F10987ZXCVB,Delhivery,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+7F10987ZXCVB,Ecom Express,2,Future/Simulated,50.0,0.0,50.0,0.0,2.0,False
+7F21098LKJHG,DHL,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+7F21098LKJHG,Safe Express,2,Historical,25.0,0.0,0.0,25.0,1.0,False
+7F21098ZXCVB,Blue Dart,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+7F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+7F43210MNBVC,Ekart Logistics,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+7F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+7F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+7F43210YTRWE,Ecom Express,3,Historical,25.5,0.0,25.5,0.0,1.0,False
+7F65432MNOPQ,Ecom Express,1,Historical,32.0,0.0,32.0,0.0,1.0,False
+7F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,0.0,25.0,1.0,False
+7F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+7F76543LKJHG,DTDC,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+7F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+7F76543ZXCVB,FedEx,5,Historical,25.0,0.0,0.0,25.0,1.0,False
+7F98765LKJHG,Gati,1,Historical,25.0,0.0,0.0,25.0,1.0,False
+8F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+8F10987ZXCVB,Delhivery,4,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+8F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+8F10987ZXCVB,Ecom Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+8F10987ZXCVB,FedEx,4,Historical,30.0,0.0,30.0,0.0,1.0,False
+8F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+8F43210MNBVC,Ekart Logistics,3,Historical,25.0,25.0,0.0,0.0,1.0,True
+8F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+8F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+8F43210POIUY,Gati,1,Historical,25.0,0.0,0.0,25.0,1.0,False
+8F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+8F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+8F76543LKJHG,DTDC,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+8F76543LKJHG,FedEx,5,Future/Simulated,50.0,0.0,50.0,0.0,2.0,False
+8F76543MNBVC,Blue Dart,4,Historical,25.0,0.0,0.0,25.0,1.0,False
+8F98765MNBVC,Delhivery,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+8F98765MNBVC,Safe Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+8F98765POIUY,DHL,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+9F10987LKJHG,Blue Dart,4,Historical,25.0,0.0,0.0,25.0,1.0,False
+9F10987ZXCVB,Blue Dart,4,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+9F10987ZXCVB,Delhivery,4,Future/Simulated,30.0,0.0,30.0,0.0,1.0,False
+9F10987ZXCVB,Ecom Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+9F10987ZXCVB,Ecom Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+9F32109RSTUV,FedEx,5,Historical,27.0,0.0,27.0,0.0,1.0,False
+9F43210MNBVC,Ekart Logistics,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+9F43210MNBVC,Ekart Logistics,3,Historical,25.0,0.0,25.0,0.0,1.0,False
+9F43210MNBVC,Gati,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+9F43210MNBVC,Safe Express,2,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+9F43210ZXCVB,DHL,3,Historical,30.0,0.0,0.0,30.0,1.0,False
+9F65432LKJHG,Delhivery,4,Historical,25.0,0.0,25.0,0.0,1.0,False
+9F65432LKJHG,Safe Express,2,Historical,25.0,0.0,25.0,0.0,1.0,False
+9F65432ZXCVB,DTDC,1,Historical,25.0,0.0,25.0,0.0,1.0,False
+9F76543LKJHG,DHL,3,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+9F76543LKJHG,DTDC,1,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+9F76543LKJHG,FedEx,5,Future/Simulated,25.0,0.0,25.0,0.0,1.0,False
+9F76543LKJHG,FedEx,5,Historical,25.0,0.0,25.0,0.0,1.0,False
+9F87654POIUY,Gati,1,Historical,26.0,0.0,0.0,26.0,1.0,False
